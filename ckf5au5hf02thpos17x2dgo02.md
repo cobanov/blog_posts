@@ -1,4 +1,4 @@
-## Yapay Zeka Kaynaklarım — Online Kaynaklar
+## Yapay Zeka Kaynaklarım
 
 
 Herkese şimdiden keyifli okumalar diliyorum, kemerlerinizi bağladıysanız en çok sorulan sorulara hızlı ve rehber niteliğinde cevaplar verdiğim bir seri yapacağım.
