@@ -1,4 +1,4 @@
-## Makine Öğrenmesi ve Geri Kalan Her Şey İçin Ö
+## Öğrenme Tekniklerim
 
 
 Görece serbest ve ciddiyetsiz bir açılış
