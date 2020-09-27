@@ -1,6 +1,6 @@
 ## Muhtemel İhtiyaçlar Listesi
 
-### Bir Data Scientist oalrak öğrenmenin daha yararlı olabileceği muhtemel şeyler:
+### Bir Data Scientist olarak öğrenmenin daha yararlı olabileceği muhtemel şeyler:
 
 
 1. Daha fazla veri bilimi tekniğine hakim olmak
