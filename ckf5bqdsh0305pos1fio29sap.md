@@ -33,7 +33,6 @@ Projemize geçmeden önce bu alandaki bilgi birikimimizi artırmak adına, hem d
 
 ## Kim Bu Adam?
 
-![Image for post](https://miro.medium.com/max/44/1*yZJkoC2KCJuUHACmsbkh6g.jpeg?q=20)
 
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/552/1*yZJkoC2KCJuUHACmsbkh6g.jpeg" width="276" height="371"/></noscript>
 
@@ -57,15 +56,12 @@ Haar benzeri özellikleri kabaca 3 ana bölgeye ayırabiliriz.
 *   Çizgi Özellikleri
 *   Dört Kare Özellikleri
 
-![Image for post](https://miro.medium.com/max/60/1*hbFPsfsCqV8rf1MV8b8p5w.jpeg?q=20)
-
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/640/1*hbFPsfsCqV8rf1MV8b8p5w.jpeg" width="320" height="271" srcSet="https://miro.medium.com/max/552/1*hbFPsfsCqV8rf1MV8b8p5w.jpeg 276w, https://miro.medium.com/max/640/1*hbFPsfsCqV8rf1MV8b8p5w.jpeg 320w" sizes="320px"/></noscript>
 
 OpenCV Documentation — Face Detection
 
 Evet, şimdi kurmak istediğim bağlantıya geri dönelim. Burada bağlantı kurmanız açısından insan yüzü tanımlamak istediğimizi düşünelim, Haar benzeri özellikler gördüğünüz gibi bir insan yüzü tanımlamak istediğimizde bize bu özelliklerin olduğu bölgelerin tespitini yapmamızı kolaylaştırıyor. Bu sayede aradığımız görselde bir insan yüzü olup olmadığını anlayabiliyoruz.
 
-![Image for post](https://miro.medium.com/max/60/1*64MTUF8nuEvSgBvYmOfhKA.png?q=20)
 
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/668/1*64MTUF8nuEvSgBvYmOfhKA.png" width="334" height="203" srcSet="https://miro.medium.com/max/552/1*64MTUF8nuEvSgBvYmOfhKA.png 276w, https://miro.medium.com/max/668/1*64MTUF8nuEvSgBvYmOfhKA.png 334w" sizes="334px"/></noscript>
 
@@ -81,8 +77,6 @@ Bu bölümde projemizde kullanacağımız ağın yapısından bahsedeceğim, bun
 
 Yann LeCun ve ekibi 1998 yılında yayınladığı makale, görüntü işleme yöntemlerinin nasıl Derin Ağlar üzerinde kullanabileceğini anlattı. LeNet-5 olarak adlandırılan bu yapı ilk başarılı sonucu veren evrişimli sinir ağı olmuştur.
 
-![Image for post](https://miro.medium.com/max/60/1*nQ9oyvewy_c5-2bK9-UtOg.png?q=20)
-
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/4000/1*nQ9oyvewy_c5-2bK9-UtOg.png" width="2000" height="553" srcSet="https://miro.medium.com/max/552/1*nQ9oyvewy_c5-2bK9-UtOg.png 276w, https://miro.medium.com/max/1104/1*nQ9oyvewy_c5-2bK9-UtOg.png 552w, https://miro.medium.com/max/1280/1*nQ9oyvewy_c5-2bK9-UtOg.png 640w, https://miro.medium.com/max/1400/1*nQ9oyvewy_c5-2bK9-UtOg.png 700w" sizes="700px"/></noscript>
 
 Gradient-Based Learning Applied to Document Recognition , Yann LeCun — [http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
@@ -93,7 +87,6 @@ Sonrasında durmayıp tekniklerimizi geliştirmeye devam ettik ve bugün size pr
 
 Burada anlatmak üzere olduğumuz model anlaşılması diğer modellere nazaran daha basit bir yapı, görselin uzun olması umarım sizi korkutmamıştır. Dikkat ederseniz bloklar kendilerini birkaç kez tekrar ediyor. Bunu yapmamızdaki en büyük amaç girişimizdeki görselimizi daha küçük boyutlu matrislere küçültmek.
 
-![Image for post](https://miro.medium.com/max/42/1*9pjrPQgh7d4ogTHHrWUI_w.png?q=20)
 
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/1800/1*9pjrPQgh7d4ogTHHrWUI_w.png" width="900" height="1260" srcSet="https://miro.medium.com/max/552/1*9pjrPQgh7d4ogTHHrWUI_w.png 276w, https://miro.medium.com/max/1000/1*9pjrPQgh7d4ogTHHrWUI_w.png 500w" sizes="500px"/></noscript>
 
@@ -127,11 +120,8 @@ Bu zamana kadar kodumuzu bilgisayarımıza kopyalayıp, bulunduğu dizine tahmin
 
 Son satırda en iyi 3 tahmini yazdırmasını istedik. İlk testi internet üzerinden bulduğum bir kuş fotoğrafıyla yapıyorum.
 
-![Image for post](https://miro.medium.com/max/60/1*kB3AxETvdKQZ47HhHxSMLA.jpeg?q=20)
 
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/2400/1*kB3AxETvdKQZ47HhHxSMLA.jpeg" width="1200" height="635" srcSet="https://miro.medium.com/max/552/1*kB3AxETvdKQZ47HhHxSMLA.jpeg 276w, https://miro.medium.com/max/1104/1*kB3AxETvdKQZ47HhHxSMLA.jpeg 552w, https://miro.medium.com/max/1280/1*kB3AxETvdKQZ47HhHxSMLA.jpeg 640w, https://miro.medium.com/max/1400/1*kB3AxETvdKQZ47HhHxSMLA.jpeg 700w" sizes="700px"/></noscript>
-
-![Image for post](https://miro.medium.com/max/60/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg?q=20)
 
 <noscript><img alt="Image for post" class="t u v ck ak" src="https://miro.medium.com/max/1574/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg" width="787" height="85" srcSet="https://miro.medium.com/max/552/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg 276w, https://miro.medium.com/max/1104/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg 552w, https://miro.medium.com/max/1280/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg 640w, https://miro.medium.com/max/1400/1*WqMpGSV3dA-t7h-UrTzBxw.jpeg 700w" sizes="700px"/></noscript>
 
