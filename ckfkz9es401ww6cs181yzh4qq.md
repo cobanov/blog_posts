@@ -1,6 +1,6 @@
 ## Muhtemel İhtiyaçlar Listesi
 
-### Bir yazılım dili daha öğrenmekten daha yararlı olabilecek şeyler:
+### Bir Data Scientist oalrak öğrenmenin daha yararlı olabileceği muhtemel şeyler:
 
 
 1. Daha fazla veri bilimi tekniğine hakim olmak
@@ -16,7 +16,7 @@
 11. Özellikle data scientistler için daha fazla pratik
 12. Cloud, IoT gibi sistemlerde ufak projeler yapmak 
 
-Arkadaşlar herkes pareto etkisini biliyor bir işin %80'lik kısmı çok kolay halledilir fakat sizi uzman veya değerli yapacak şey, sizi diğerlerinden ayıran o şey %20'lik derinleşme bölgesindedir. 
+Pareto etkisini bilirsiniz, bir işin %80'lik kısmı çok kolay halledilir fakat sizi uzman veya değerli yapacak şey, sizi diğerlerinden ayıran o şey %20'lik derinleşme bölgesindedir. 
 
 Veri biliminde anahtar unsur derin bir teori ve bu derinligi uygulayabilmek için dildeki hakimiyettir. 
 
