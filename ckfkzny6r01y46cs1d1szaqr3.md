@@ -3,8 +3,6 @@
 # En iyi ML-DL Kitapları #1
 *Sıralı liste değil*
 
-![](https://pbs.twimg.com/media/EYtnoFlWkAQdIwG?format=jpg&name=small)
-
 ## Machine Learning
 1. Hands-on Machine Learning - Geron
 2. Machine Learning in Action - Harrington
