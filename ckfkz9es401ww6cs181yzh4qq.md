@@ -1,4 +1,4 @@
-## Bir Data Scientist'ten Tavsiyeler
+## Muhtemel İhtiyaçlar Listesi
 
 ### Bir yazılım dili daha öğrenmekten daha yararlı olabilecek şeyler:
 
