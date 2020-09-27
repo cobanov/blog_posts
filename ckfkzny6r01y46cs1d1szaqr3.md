@@ -1,15 +1,24 @@
 ## Yabancı ML-DL Kaynakları
 
-En iyi ML-DL Kitapları #1
+# En iyi ML-DL Kitapları #1
 *Sıralı liste değil*
 
+![](https://pbs.twimg.com/media/EYtnoFlWkAQdIwG?format=jpg&name=small)
+
+## Machine Learning
 1. Hands-on Machine Learning - Geron
-2. Deep Learning with Python - Chollet
-3. Deep Learning - Goodfellow, Bengio
-4. Fundamentals of Deep Learning - Buduma, Locascio
-En iyi ML-DL Kitapları #2
-*Sıralı liste değil*
+2. Machine Learning in Action - Harrington
+3. Machine Learning with Python Cookbook - Albon
 
-5. Machine Learning in Action - Harrington
-6. Machine Learning with Python Cookbook - Albon
+## Deep Learning
+4. Deep Learning with Python - Chollet
+5. Deep Learning - Goodfellow, Bengio
+6. Fundamentals of Deep Learning - Buduma, Locascio
+
+## Data Science
 7. Python Data Science Handbook - VanderPlas
+8. Data Science from Scratch - Grus
+
+# Genel
+9. Scikit-Learn Cookbook - Avila, Hauck
+10. The Elements of  Statistical Learning - Friedman
