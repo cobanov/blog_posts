@@ -1,4 +1,4 @@
-## Machine Learning'e Başlarken
+## Sıkça Sorulan Sorular
 
 <span class="s"></span>
 
