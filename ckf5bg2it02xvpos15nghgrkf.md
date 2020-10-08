@@ -35,12 +35,6 @@ Machine Learning ve Data Science alanlarında bana en sık gelen soruları tek b
 
 Bu bahsettiğim kapsamlar artırılabilir, fakat genel olarak ihtiyacın olacak konular en azından giriş düzeyinde bu şekilde. Bahsettiğim tek bir yol olmayışı bu 3'lü nedeniyle oluşuyor. Bunları peşpeşe veya paralel bir şekilde öğrenebilirsin veya bazılarına ağırlık verir ve bazılarına daha az zaman harcarsın fakat günün sonunda hepsine ihtiyacın olacak. Bu konuları halledebilmek için edindiğin her kaynak sana farklı bir bakış açısı kazandıracaktır fakat ben yine de altta bu zamana kadar tecrübe ettiğim kaynakları yazıyor olacağım.
 
-![Image for post](https://miro.medium.com/max/60/0*JBuSy2N_XPYmQo6j?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/11728/0*JBuSy2N_XPYmQo6j" width="5864" height="3909" srcSet="https://miro.medium.com/max/552/0*JBuSy2N_XPYmQo6j 276w, https://miro.medium.com/max/1104/0*JBuSy2N_XPYmQo6j 552w, https://miro.medium.com/max/1280/0*JBuSy2N_XPYmQo6j 640w, https://miro.medium.com/max/1400/0*JBuSy2N_XPYmQo6j 700w" sizes="700px"/></noscript>
-
-Photo by [Stanislav Kondratiev](https://unsplash.com/@technobulka?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
 # Bu alanda belirli bir yere geldim, artık nasıl devam etmeliyim?
 
 Eğer temelleri artık aldıysan daha ileri gitmek istediğini biliyorum, bu yüzden makine öğrenmesi alanlarından birinde sivrilmelisin. Bunu seçerken ne yapmak sana keyif veriyor, uzun süre boyunca motivasyonunu kaybetmeden hangi konulara çalışabilirsin buna karar vermelisin. Ben örnek olması açısından bazı konu başlıklarını ve bilmen gereken bazı anahtar kelimeleri yazıyorum. Bu anahtar kelimeler her şeyi kapsamıyor fakat neler var diye araştırabilirsin.
@@ -77,11 +71,6 @@ Bu bahsettiğim konular için internet üzerinden çeşitli kurslar bulabilirsin
 
 * * *
 
-![Image for post](https://miro.medium.com/max/60/0*pFzzzBZ7u9UaV4kz?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/12000/0*pFzzzBZ7u9UaV4kz" width="6000" height="4000" srcSet="https://miro.medium.com/max/552/0*pFzzzBZ7u9UaV4kz 276w, https://miro.medium.com/max/1104/0*pFzzzBZ7u9UaV4kz 552w, https://miro.medium.com/max/1280/0*pFzzzBZ7u9UaV4kz 640w, https://miro.medium.com/max/1400/0*pFzzzBZ7u9UaV4kz 700w" sizes="700px"/></noscript>
-
-Photo by [Sean Pollock](https://unsplash.com/@seanpollock?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 # Kaliteli kaynakları nereden bulabilirim? Önerebilir misin?
 
@@ -91,39 +80,31 @@ Hazır buradayken de birkaç örnek vermeden göndermeyeceğim.
 
 # Coursera / Deep Learning Specialization
 
-![Image for post](https://miro.medium.com/max/60/0*nhjEs_IJT8th41Hq?q=20)
-
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/1400/0*nhjEs_IJT8th41Hq" width="700" height="261" srcSet="https://miro.medium.com/max/552/0*nhjEs_IJT8th41Hq 276w, https://miro.medium.com/max/1104/0*nhjEs_IJT8th41Hq 552w, https://miro.medium.com/max/1280/0*nhjEs_IJT8th41Hq 640w, https://miro.medium.com/max/1400/0*nhjEs_IJT8th41Hq 700w" sizes="700px"/></noscript>
 
 Eğer derin öğrenme alanında çalışmak istiyorsanız ilk başvuracağınız kaynak bu olmalı diye düşünüyorum. Oldukça kapsamlı ve teorik bir kurs. Beş adımdan oluşuyor ve size bu alanda uzun süre yetebilecek derin öğrenmenin çeşitli alanlarından müthiş bilgileri veriyor.
 
 # DataCamp / Career Tracks
 
-![Image for post](https://miro.medium.com/max/60/0*hNRQusuzWurUcplp?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/1260/0*hNRQusuzWurUcplp" width="630" height="197" srcSet="https://miro.medium.com/max/552/0*hNRQusuzWurUcplp 276w, https://miro.medium.com/max/1104/0*hNRQusuzWurUcplp 552w, https://miro.medium.com/max/1260/0*hNRQusuzWurUcplp 630w" sizes="630px"/></noscript>
 
 # Statquest with Josh Starmer / Youtube
 
-![Image for post](https://miro.medium.com/max/60/0*99SSwEYYcQNjCMjE?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/1400/0*99SSwEYYcQNjCMjE" width="700" height="131" srcSet="https://miro.medium.com/max/552/0*99SSwEYYcQNjCMjE 276w, https://miro.medium.com/max/1104/0*99SSwEYYcQNjCMjE 552w, https://miro.medium.com/max/1280/0*99SSwEYYcQNjCMjE 640w, https://miro.medium.com/max/1400/0*99SSwEYYcQNjCMjE 700w" sizes="700px"/></noscript>
 
 # 3blue1brown / YouTube
 
-![Image for post](https://miro.medium.com/max/60/0*02VpvGlUZ1Ib9V2m?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/1400/0*02VpvGlUZ1Ib9V2m" width="700" height="153" srcSet="https://miro.medium.com/max/552/0*02VpvGlUZ1Ib9V2m 276w, https://miro.medium.com/max/1104/0*02VpvGlUZ1Ib9V2m 552w, https://miro.medium.com/max/1280/0*02VpvGlUZ1Ib9V2m 640w, https://miro.medium.com/max/1400/0*02VpvGlUZ1Ib9V2m 700w" sizes="700px"/></noscript>
 
 # Corey Schafer
 
-![Image for post](https://miro.medium.com/max/60/0*76jzE6Wu0EfJDd4j.jpeg?q=20)
-
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*76jzE6Wu0EfJDd4j.jpeg" width="1000" height="330" srcSet="https://miro.medium.com/max/552/0*76jzE6Wu0EfJDd4j.jpeg 276w, https://miro.medium.com/max/1104/0*76jzE6Wu0EfJDd4j.jpeg 552w, https://miro.medium.com/max/1280/0*76jzE6Wu0EfJDd4j.jpeg 640w, https://miro.medium.com/max/1400/0*76jzE6Wu0EfJDd4j.jpeg 700w" sizes="700px"/></noscript>
 
 # Sentdex
 
-![Image for post](https://miro.medium.com/max/60/0*MXWftnB6aO6rIjyx.png?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/1400/0*MXWftnB6aO6rIjyx.png" width="700" height="212" srcSet="https://miro.medium.com/max/552/0*MXWftnB6aO6rIjyx.png 276w, https://miro.medium.com/max/1104/0*MXWftnB6aO6rIjyx.png 552w, https://miro.medium.com/max/1280/0*MXWftnB6aO6rIjyx.png 640w, https://miro.medium.com/max/1400/0*MXWftnB6aO6rIjyx.png 700w" sizes="700px"/></noscript>
 
@@ -144,10 +125,6 @@ Eğer derin öğrenme alanında çalışmak istiyorsanız ilk başvuracağınız
 
 * * *
 
-![Image for post](https://miro.medium.com/max/60/0*fiwT3G9mkMOG9gP0.jpg?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*fiwT3G9mkMOG9gP0.jpg" width="1000" height="662" srcSet="https://miro.medium.com/max/552/0*fiwT3G9mkMOG9gP0.jpg 276w, https://miro.medium.com/max/1104/0*fiwT3G9mkMOG9gP0.jpg 552w, https://miro.medium.com/max/1280/0*fiwT3G9mkMOG9gP0.jpg 640w, https://miro.medium.com/max/1400/0*fiwT3G9mkMOG9gP0.jpg 700w" sizes="700px"/></noscript>
-
 # Hangi dili öğrenmeliyim?
 
 Sanırım insanların en çok linç yediği sorulardan birisi, ben de biraz yuvarlak bir cevap vereceğim ama kalbim bangır bangır python diye bağırıyor. Burada duyarlı olmaya veya başka bir duyguya da kapılmaya gerek olduğunu düşünmüyorum, böyle bir komünite desteği ve gelişim hızı varken python’dan başka bir şey önermem çok ayıp olurdu diye düşünüyorum fakat yine de sizin tercihiniz. Ben yine de 2020 itibariyle popüler olan dilleri yazayım.
@@ -159,9 +136,6 @@ Sanırım insanların en çok linç yediği sorulardan birisi, ben de biraz yuva
 
 * * *
 
-![Image for post](https://miro.medium.com/max/60/0*RfB6VLjp1cROn5yy.jpg?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*RfB6VLjp1cROn5yy.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*RfB6VLjp1cROn5yy.jpg 276w, https://miro.medium.com/max/1104/0*RfB6VLjp1cROn5yy.jpg 552w, https://miro.medium.com/max/1280/0*RfB6VLjp1cROn5yy.jpg 640w, https://miro.medium.com/max/1400/0*RfB6VLjp1cROn5yy.jpg 700w" sizes="700px"/></noscript>
 
 # Programlama bilgim en azından hangi seviyede olmalı?
 
@@ -171,31 +145,22 @@ Konuya dönecek olursak giriş seviyesindeysen en azından bulunduğun dilde fon
 
 * * *
 
-![Image for post](https://miro.medium.com/max/60/0*iVe82V3idYxm7az9.jpg?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*iVe82V3idYxm7az9.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*iVe82V3idYxm7az9.jpg 276w, https://miro.medium.com/max/1104/0*iVe82V3idYxm7az9.jpg 552w, https://miro.medium.com/max/1280/0*iVe82V3idYxm7az9.jpg 640w, https://miro.medium.com/max/1400/0*iVe82V3idYxm7az9.jpg 700w" sizes="700px"/></noscript>
 
 # Güzel bir yol haritası olsa çok iyi olurdu?
 
 Aslında güzel bir roadmap var. [Bu repodan](https://github.com/MrMimic/data-scientist-roadmap) ulaşabilirsin. Genel olarak full-stack bir ML Engineer ve Data Scientist olma yolunda bu etmenlerin tamamını ya da bir kısmının tamamlanması bekleniyor. Burada bulduğun fotoğrafın üzerine tik atarak yolun ne kadarını tamamladığına bakabilirsin. Aynı zamanda repodaki teknik bilgiler ile eksik kaldığın kısımlara çalışmaya başlayabilirsin. Bir ufak tüyo olarak her şeyin başı ingilizce öğrenmekten geçiyor. Eğer bu kısım tamam değilse ilk önce ingilizceden başlamanı öneririm.
 
-![Image for post](https://miro.medium.com/max/60/0*B41-YTlN5JG9Y7oj?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*B41-YTlN5JG9Y7oj" width="1000" height="811" srcSet="https://miro.medium.com/max/552/0*B41-YTlN5JG9Y7oj 276w, https://miro.medium.com/max/1104/0*B41-YTlN5JG9Y7oj 552w, https://miro.medium.com/max/1280/0*B41-YTlN5JG9Y7oj 640w, https://miro.medium.com/max/1400/0*B41-YTlN5JG9Y7oj 700w" sizes="700px"/></noscript>
 
 * * *
 
-![Image for post](https://miro.medium.com/max/60/0*vojY1Yd8qo00Npqd.jpg?q=20)
 
 <noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*vojY1Yd8qo00Npqd.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*vojY1Yd8qo00Npqd.jpg 276w, https://miro.medium.com/max/1104/0*vojY1Yd8qo00Npqd.jpg 552w, https://miro.medium.com/max/1280/0*vojY1Yd8qo00Npqd.jpg 640w, https://miro.medium.com/max/1400/0*vojY1Yd8qo00Npqd.jpg 700w" sizes="700px"/></noscript>
 
 # X bölümden mezunum bu alanda çalışabilir miyim?
 
 Genel olarak matematik temelini alabildiğin bölümler sana daha yardımcı olacaktır fakat bu demek değilki kendi başına da matematik öğrenilmez. Bu konuyla alakalı birçok yaşanmış hikaye var, bu tamamen senin gerçekten isteyip istemediğine bağlı. Fakat hayatında düzenli olarak kullandığında daha da kalıcı olduğu gerçeğini değiştiremeyiz. Tabii ki yazılımcı veya matematikçi olmanın katkısını yadsımıyorum fakat her şeyi öğrenebilirsin, bu sadece zaman meselesi.
-
-![Image for post](https://miro.medium.com/max/60/0*Cd4fegBMp8Ca1J4M.jpg?q=20)
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*Cd4fegBMp8Ca1J4M.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*Cd4fegBMp8Ca1J4M.jpg 276w, https://miro.medium.com/max/1104/0*Cd4fegBMp8Ca1J4M.jpg 552w, https://miro.medium.com/max/1280/0*Cd4fegBMp8Ca1J4M.jpg 640w, https://miro.medium.com/max/1400/0*Cd4fegBMp8Ca1J4M.jpg 700w" sizes="700px"/></noscript>
 
 # Matematik tarafında hangi konuları halletmeliyim ve kaynaklar nelerdir?
 
@@ -227,9 +192,7 @@ Genel olarak üst kısımlarda bahsettiğim temel matematik etmenlerini tamamlam
 
 Bunları youtube üzerinden ve kitaplardan edinebilirsin. Makine Öğrenmesi matematiğini çok güzel ve teknik şekilde anlatan youtube kanalları da var. Örneğin [StatQuest](https://www.youtube.com/user/joshstarmer) bu konuda gerçekten harika.
 
-![Image for post](https://miro.medium.com/max/60/0*JQLr5vzx2ry63EQM.jpg?q=20)
 
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*JQLr5vzx2ry63EQM.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*JQLr5vzx2ry63EQM.jpg 276w, https://miro.medium.com/max/1104/0*JQLr5vzx2ry63EQM.jpg 552w, https://miro.medium.com/max/1280/0*JQLr5vzx2ry63EQM.jpg 640w, https://miro.medium.com/max/1400/0*JQLr5vzx2ry63EQM.jpg 700w" sizes="700px"/></noscript>
 
 # Sen hangi youtube kanallarını takip ediyorsun, kaliteli olduğunu düşündüklerini paylaşır mısın?
 
