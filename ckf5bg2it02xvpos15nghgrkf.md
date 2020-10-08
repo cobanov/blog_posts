@@ -155,9 +155,6 @@ Aslında güzel bir roadmap var. [Bu repodan](https://github.com/MrMimic/data-sc
 
 * * *
 
-
-<noscript><img alt="Image for post" class="t u v cj ak" src="https://miro.medium.com/max/2000/0*vojY1Yd8qo00Npqd.jpg" width="1000" height="666" srcSet="https://miro.medium.com/max/552/0*vojY1Yd8qo00Npqd.jpg 276w, https://miro.medium.com/max/1104/0*vojY1Yd8qo00Npqd.jpg 552w, https://miro.medium.com/max/1280/0*vojY1Yd8qo00Npqd.jpg 640w, https://miro.medium.com/max/1400/0*vojY1Yd8qo00Npqd.jpg 700w" sizes="700px"/></noscript>
-
 # X bölümden mezunum bu alanda çalışabilir miyim?
 
 Genel olarak matematik temelini alabildiğin bölümler sana daha yardımcı olacaktır fakat bu demek değilki kendi başına da matematik öğrenilmez. Bu konuyla alakalı birçok yaşanmış hikaye var, bu tamamen senin gerçekten isteyip istemediğine bağlı. Fakat hayatında düzenli olarak kullandığında daha da kalıcı olduğu gerçeğini değiştiremeyiz. Tabii ki yazılımcı veya matematikçi olmanın katkısını yadsımıyorum fakat her şeyi öğrenebilirsin, bu sadece zaman meselesi.
