@@ -1,7 +1,7 @@
 ## Öğrenme Tekniklerim
 
 
-Görece serbest ve ciddiyetsiz bir açılış
+▶️ blog yazısının videosuna  [linkten](https://www.youtube.com/watch?v=pBwUz3RmXiI)  ulaşabilirsin!
 > *Ben genellikle yeni bir şey öğrenirken müziği kapatıyorum, çünkü bu algıyı bölüyor, fakat aksine iş yaparken açıyorum çünkü konsantrasyonu artırıyor.*
 
 ## Her şey kabul etmek ile alakalı
